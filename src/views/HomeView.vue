@@ -44,7 +44,6 @@ const startGame = () => {
 </template>
 
 <style scoped>
-/* Parent container to center the welcome content */
 .app-container {
   display: flex;
   justify-content: center;
